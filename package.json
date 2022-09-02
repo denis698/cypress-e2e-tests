@@ -12,7 +12,7 @@
     "@babel/preset-env": "^7.12.10",
     "@babel/register": "^7.12.1",
     "@cucumber/cucumber": "^7.3.1",
-    "@testing-library/cypress": "^8.0.2",
+    "@testing-library/cypress": "^8.0.3",
     "chromedriver": "^100.0.0",
     "cucumber-html-reporter": "^5.5.0",
     "cypress-mochawesome-reporter": "^3.0.0",
