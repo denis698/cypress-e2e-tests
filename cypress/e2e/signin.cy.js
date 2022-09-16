@@ -67,7 +67,7 @@ describe("Log-in", () => {
     cy.get('._headerLocationMenu-module__currentLocation').should("be.visible").should('have.text', 'Kalkio Space - East Side');
     cy.get('.euiPage').should("be.visible");
     cy.get('.recharts-surface').should("be.visible");
-    cy.get('[aria-label="Adrian Palacios"]').should("be.visible");
+    cy.get('[aria-label="John Doe"]').should("be.visible");
   });
 
 });
